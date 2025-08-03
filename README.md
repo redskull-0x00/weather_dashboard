@@ -19,7 +19,7 @@ This method keeps your API key secure and is ideal for professional projects.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather_dashboard.git
+   git clone https://github.com/redskull-0x00/weather_dashboard.git
    cd weather_dashboard
    ```
 2. Install dependencies:
@@ -40,7 +40,7 @@ This is a quick setup for those who prefer editing the script directly.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather_dashboard.git
+   git clone https://github.com/redskull-0x00/weather_dashboard.git
    cd weather_dashboard
    ```
 2. Install dependencies (no `python-dotenv` needed):
